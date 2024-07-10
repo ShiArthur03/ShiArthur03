@@ -17,12 +17,12 @@
 * 由于Github对上传文件大小有限制，我将会用到的数据存在云端，可以通过[链接](https://1drv.ms/f/s!AvR41SoNKXKfgmuvXyLk87ziHJ-N?e=Y6uiw8)进行下载，里面应该含有`Test1SimandExp.mat`、`Test2SimandExp_1.mat`、`Test2SimandExp_2.mat`和`Test3SimandExp.mat`四个文件。检查无误后将其分别复制到下载好的`Code_for_Paper`和`Original_Code`文件夹中。
 * Since Github has a limit on the size of uploaded files, the data I will use is stored in the cloud and can be downloaded through [link](https://1drv.ms/f/s!AvR41SoNKXKfgmuvXyLk87ziHJ-N?e=Y6uiw8), which should contain four files: `Test1SimandExp.mat`, `Test2SimandExp_1.mat`, `Test2SimandExp_2.mat`, and `Test3SimandExp.mat`. After checking that they are correct, copy them to the downloaded `Code_for_Paper` and `Original_Code` folders respectively.
 ## Step 04 运行论文所使用代码 Run the code used in the paper
-* 在Matlab环境中运行`Code_for_Paper`文件夹中`Test1Plot.m`即可获得数据修改版本的Fig.A1-A3,运行``Test2Plot.m`即可获得数据修改版本的Fig.A4-A5,运行``Test3Plot.m`即可获得数据修改版本的Fig.A6-A7
-* Run `Test1Plot.m` in the `Code_for_Paper` folder in the Matlab environment to get the modified version of Fig.A1-A3, run ``Test2Plot.m` to get the modified version of Fig.A4-A5, run ``Test3Plot.m` to get the modified version of Fig.A6-A7,
+* 在Matlab环境中运行`Code_for_Paper`文件夹中`Test1Plot.m`即可获得数据修改版本的Fig.A1-A3,运行`Test2Plot.m`即可获得数据修改版本的Fig.A4-A5,运行`Test3Plot.m`即可获得数据修改版本的Fig.A6-A7
+* Run `Test1Plot.m` in the `Code_for_Paper` folder in the Matlab environment to get the modified version of Fig.A1-A3, run `Test2Plot.m` to get the modified version of Fig.A4-A5, run `Test3Plot.m` to get the modified version of Fig.A6-A7,
 
 ## Step 05 运行原始代码 Run the original code
-* 在Matlab环境中运行`Original_Code`文件夹中`Test1Plot.m`即可获得原本数据版本的Fig.A1-A3,运行``Test2Plot.m`即可获得原本数据版本的Fig.A4-A5,运行``Test3Plot.m`即可获得原本数据版本的Fig.A6-A7,
-* Run `Test1Plot.m` in the `Original_Code` folder in the Matlab environment to get the original data version of Fig.A1-A3, run ``Test2Plot.m` to get the original data version of Fig.A4-A5, run ``Test3Plot.m` to get the original data version of Fig.A6-A7,
+* 在Matlab环境中运行`Original_Code`文件夹中`Test1Plot.m`即可获得原本数据版本的Fig.A1-A3,运行`Test2Plot.m`即可获得原本数据版本的Fig.A4-A5,运行`Test3Plot.m`即可获得原本数据版本的Fig.A6-A7,
+* Run `Test1Plot.m` in the `Original_Code` folder in the Matlab environment to get the original data version of Fig.A1-A3, run `Test2Plot.m` to get the original data version of Fig.A4-A5, run `Test3Plot.m` to get the original data version of Fig.A6-A7,
 
 ## Step 06 对比分析 Comparative analysis
 * 比较两者结果差异，验证“学术不端行为”的有效性。
