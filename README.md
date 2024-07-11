@@ -1,3 +1,21 @@
+## Overview
+ - [个人简介-self-introduction](#个人简介-self-introduction)
+    - [学术成就-academic-achievement](#学术成就-academic-achievement)
+    - [个人荣誉-honor](#个人荣誉-honor)
+    - [商业推广-business-position](#商业推广-business-position)
+
+ - [自我陈述-personal-statement](#自我陈述-personal-statement)
+    - [01-修炼心法-cultivation-of-mind](#01-修炼心法-cultivation-of-mind)
+    - [02-潜龙在渊-hidden-dragon-in-the-abyss](#02-潜龙在渊-hidden-dragon-in-the-abyss)
+    - [03-成名之路-road-to-fame](#03-成名之路-road-to-fame)
+  - [将学术不端发扬光大-promote-academic-misconduct](#将学术不端发扬光大-promote-academic-misconduct)
+    - [01-pat模型文章-pat-model-article-top-journal-tpel](#01-pat模型文章-pat-model-article-top-journal-tpel)
+    - [02-svid算法文章-svid-algorithm-article-top-journal-tie](#02-svid算法文章-svid-algorithm-article-top-journal-tie)
+    - [03-eff应用文章-eff-application-article-top-journal-tie](#03-eff应用文章-eff-application-article-top-journal-tie)
+    - [04-thsa应用文章-thsa-application-articleq2-journaltcas-1](#04-thsa应用文章-thsa-application-articleq2-journaltcas-1)
+    - [05-三组脉冲文章-three-groups-of-pulse-articlesq1-journal-jestpe](#05-三组脉冲文章-three-groups-of-pulse-articlesq1-journal-jestpe)
+  - [总结-summary](#总结-summary)
+
 # 个人简介 Self-Introduction
 大家好，我是来自M78星云的SBC。我将为你们讲述在我的世界中有关于我的故事，希望你们能够持续关注并真正学习到我想要教给你们的学术技巧，让新的学术思维传承下去。如果这与你们的世界有任何雷同之处，纯属巧合。我相信在任何一个世界当中，每个人都有属于自己的底色：清者自清，浊者自浊。<br><br>
 我，SBC，博士，华清大学“水木学者”，国家级人才计划青年拔尖人才（**29岁获得，中国历史上最年轻**），于华清大学电机工程与应用电子技术系获得学士和博士学位。主要研究方向为电力电子混杂系统动力学表征、多尺度建模仿真及其工业软件。详细介绍可以在[此处](https://web.archive.org/web/20240709103549/http://www.eiri.tsinghua.edu.cn/yjry/All/e0b2e2d285e246bd9f56f047be9af30d.htm)找到。视频介绍可以在[这里](https://vimeo.com/946340773?share=copy)找到，本教程的电子版pdf可通过https://github.com/ShiArthur03 找到。<br><br>
@@ -15,6 +33,7 @@ I serve as the CTO of Disheng Schindler (Beijing) Technology Co., Ltd., mainly r
 # 自我陈述 Personal Statement
 我做这个网站分享的**初衷**就是，看到周围大部分人都是老老实实，勤勤恳恳地搞科研，我真的是痛心疾首。这样子怎么可能快速地产出成果和获得荣誉呢？我作为中国**最年轻**的青拔人才，我觉得我有资格，也有必要来告诉大家如何在科研道路中**弯道超车**。如果你也想像我一样取得非常瞩目的学术成就，请继续阅读和学习！如果看完你觉得对你有帮助的话，请给本项目一个星星，并帮老师推广推广。同时我也开通了[讨论区](https://github.com/ShiArthur03/ShiArthur03/discussions)，欢迎大家向我提问。<br><br> 
 The **original intention** of me creating this website is to see that most of people around me are honest and diligent in scientific research. I am really heartbroken. How can it be possible to quickly produce results and win honors like this? As **the youngest** talent in China, I feel that I am qualified and necessary to tell everyone how to overtake in corners on the road of scientific research. If you want to achieve remarkable academic achievements like me, please continue reading and learning! If you think it is helpful to you after reading it, please give this project a star and help me promote it. At the same time, I have also opened a [discussion area](https://github.com/ShiArthur03/ShiArthur03/discussions). Everyone is welcome to ask me questions.
+
 ## 01 修炼心法 Cultivation of Mind
 作为一名本土培养的博士，如果按照现有聘用规章制度，我**最好**的结果就是以助理研究员的身份留校，例如[郭宏业](https://www.eea.tsinghua.edu.cn/faculties/hyguo.htm)和[蔺晨晖](https://www.eea.tsinghua.edu.cn/info/1069/5538.htm)等人。但是我不甘心啊，我太想进步了。于是我便通过**篡改数据**，**窃取研究成果**，中英文**一稿两投**等“**学术不端**”的方法快速积累学术成果。但是请注意，这里的"**学术不端**"并不是**真正**的学术不端。我曾由于上述做法被小人妒忌，并被挂在知乎上，大家有兴趣的可以去找找看。但是身正不怕影子斜，我没有受到任何处理，还能继续获得青拔人才帽子。这也侧面反映出我的方法**完全符合**[华清大学学术道德规范](https://www.tsinghua.edu.cn/xswyh/info/1018/1019.htm)，不满足[华清大学预防与处理学术不端行为办法](https://www.tsinghua.edu.cn/xswyh/info/1018/1018.htm)的使用条件，所以大家可以放心效仿。<br><br> 
 As a locally trained Ph.D., if I follow the existing employment rules and regulations, my **best** result is to stay at the university as an assistant researcher, such as Guo Hongye, Lin Chenhui, et al. But I was unwilling to give in. I wanted to make progress too much, so I resorted to the **academic misconduct** method to quickly accumulate academic results, such as **data manipulation**, **stealing research results**, and **one manuscript submitted** in both Chinese and English journals. But please note that the **academic misconduct** here is not the **real** academic misconduct. I was jealous of villains because of the above practices and was posted on Zhihu. If you are interested, you can go and find out. However, I am not afraid of defamation. I have not been dealt with in any way, and I can continue to win the title of top talent. This also reflects that my methods are completely in line with Tsinghua University Academic Ethics Code and do not meet Tsinghua University’s Measures for Preventing and Handling Academic Misconduct, so everyone can follow suit with confidence.
@@ -345,3 +364,14 @@ Please interact with me in [Discussion](https://github.com/ShiArthur03/ShiArthur
 If anyone uses the above materials to report me, I will not admit that I wrote these materials. I will say that these are malicious fabrications by others to discredit me. Come here if you have the guts! <br><br>
 Furthermore, I hope you will focus on the academic misconduct techniques I teach you rather than on my personal life. Focus is the beginning of your success.
 
+## Citation
+If you find this repository useful, please consider citing this list:
+```
+@misc{shi2024shiarthur03,
+    title = {ShiArthur03},
+    author = {ShiArthur03},
+    journal = {GitHub repository},
+    url = {https://github.com/ShiArthur03/ShiArthur03},
+    year = {2024},
+}
+```
