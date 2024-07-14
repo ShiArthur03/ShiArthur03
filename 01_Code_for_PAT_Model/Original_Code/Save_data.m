@@ -47,7 +47,7 @@ grid minor;
 subplot(4,1,3);
 plot(saberi(:,1),1.5*saberi(:,2),'m','linewidth',1);
 set(gca, 'Fontname', 'Times New Roman')
-legend1=legend('Saber simulation with hysical model','Location','northwest');legend('boxoff')
+legend1=legend('Saber simulation with physical model','Location','northwest');legend('boxoff')
 set(legend1,...
     'Position',[0.14630225080386 0.262048192771084 0.364147909967846 0.0542168674698795]);
 xlim([0,0.02]);
