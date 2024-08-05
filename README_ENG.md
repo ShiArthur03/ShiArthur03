@@ -30,7 +30,7 @@ Below, I will take Fig.19-21 in the paper as an example to explain in detail whe
   <img src="Img_En/PAT01.png" weight="1500">
   <figcaption>
   </figcaption>
-  <br /> <br />
+  <br/> <br />
 </figure>
 
 ### Solution Effect
